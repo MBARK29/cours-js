@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const user = {
+            firstName: 'Walter',
+            lastName: 'White',
+            age: 50,
+            dateInscription: new Date(),
+            presentation() {
+                console.log('Bonjour je m\'appelle Heisenberg');
+            },
+            competences: ["HTML", "CSS", "JS", "Git"]
+        }
+
+        console.log(user);
+        user.presentation();
+        user.firstName = "Saul";
+        console.log(user);
+        console.log("Compétences N° 3 : ", user.competences[2]);
+        console.log("Nombres de compétences : ", user.competences.length);
+
+        const month = (age) => {
+            return age * 12;
+        }
+
+        user.age = 51;
+
+        console.log("J'ai ", month(user.age), " mois");
+
+    </script>
+</body>
+</html>

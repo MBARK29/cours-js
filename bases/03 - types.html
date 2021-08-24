@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let age = 18;
+        console.log(typeof age, age);
+        let prix = 23.29;
+        console.log(typeof prix, prix);
+        let human = true;
+        console.log(typeof human, human);
+        let name = "John";
+        console.log(typeof name);         //  cela indique le type de la variable en l'occurence String donc chaines de caracteres
+        console.log(name);         // cela indique la valeur de la variable name
+        let value;
+        console.log(value);
+        let action = null;
+        console.log(action);
+
+        const car = {
+            marque: 'Audi',
+            couleur: 'Noire',
+            prix: 22000,
+            presentation() {
+                console.log("Je suis une Audi A3");
+            },
+            occasion: false,
+            kms: 507,
+            dateAchat: new Date()
+
+        }
+
+        console.log(car);
+        car.presentation();
+        console.log(car.prix);
+        car.prix = 18000
+        console.log(car.prix);
+
+        // function presentation() {
+        //     console.log("Bonjour nous sommes les DWWM");
+        // };
+        
+        const presentation = () => {
+            console.log("Bonjour nous sommes les DWWM");
+        }
+        
+        presentation();
+
+        const addition = (x,y) => {
+            return x + y;
+        }
+
+        const multiplication = (x,y) => {
+            return x * y;
+        }
+
+        console.log(addition(12, 7));
+        console.log(multiplication(12, 7));
+
+        const now = new Date();
+        console.log(now);
+
+        const notes = [15, 17, 12];
+        console.log(notes[0], notes[1]);
+        console.log(notes.length);
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>
