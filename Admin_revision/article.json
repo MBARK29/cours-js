@@ -1,0 +1,187 @@
+{
+  "articles" : [ {
+    "denomination" : "LG 55 - TV OLED 4K - 139cm",
+    "dispo" : "EN STOCK",
+    "id" : 0,
+    "img" : "https://zupimages.net/up/21/39/769m.jpg",
+    "marque" : "LG",
+    "price" : 1299.95,
+    "resolution" : "OLED",
+    "taille" : 55,
+    "visibility": true,
+    "qte": 2,
+    "buy": 0,
+    "type" : "articles"
+  }, {
+    "denomination" : "HISENSE 32 - TV LED HD - 80cm",
+    "dispo" : "EN STOCK",
+    "id" : 1,
+    "img" : "https://zupimages.net/up/21/39/mxiq.jpg",
+    "marque" : "HISENSE",
+    "price" : 199.96,
+    "resolution" : "HD",
+    "taille" : 32,
+    "visibility": true,
+    "qte": 1,
+    "buy": 0,
+    "type" : "articles"
+  }, {
+    "denomination" : "PANASONIC 55 - TV OLED 4K - 139cm",
+    "dispo" : "EN STOCK",
+    "id" : 2,
+    "img" : "https://zupimages.net/up/21/39/7zo2.jpg",
+    "marque" : "PANASONIC",
+    "price" : 1189.0,
+    "resolution" : "OLED",
+    "taille" : 55,
+    "visibility": true,
+    "qte": 5,
+    "buy": 0,
+    "type" : "articles"
+  }, {
+    "denomination" : "HISENSE 43 -TV  4K - 108cm",
+    "dispo" : "EN STOCK",
+    "id" : 3,
+    "img" : "https://zupimages.net/up/21/39/u8c1.jpg",
+    "marque" : "HISENSE",
+    "price" : 349.96,
+    "resolution" : "4K",
+    "taille" : 43,
+    "visibility": true,
+    "qte": 3,
+    "buy": 0,
+    "type" : "articles"
+  }, {
+    "denomination" : "PHILIPS 32 - TV Full HD - 80cm",
+    "dispo" : "EN STOCK",
+    "id" : 4,
+    "img" : "https://zupimages.net/up/21/39/nm70.jpg",
+    "marque" : "PHILIPS",
+    "price" : 299.95,
+    "resolution" : "Full HD",
+    "taille" : 32,
+    "visibility": true,
+    "qte": 2,
+    "buy": 0,
+    "type" : "articles"
+  }, {
+    "denomination" : "LG 55nano - TV 4K 139cm",
+    "dispo" : "EN STOCK",
+    "id" : 5,
+    "img" : "https://zupimages.net/up/21/39/kbpw.jpg",
+    "marque" : "LG",
+    "price" : 849.95,
+    "resolution" : "4K",
+    "taille" : 55,
+    "visibility": true,
+    "qte": 1,
+    "buy": 0,
+    "type" : "articles"
+  }, {
+    "denomination" : "TCL 55 - TV 4K 139cm",
+    "dispo" : "EN STOCK",
+    "id" : 6,
+    "img" : "https://zupimages.net/up/21/39/jirg.jpg",
+    "marque" : "TCL",
+    "price" : 649.9,
+    "resolution" : "4K",
+    "taille" : 55,
+    "visibility": true,
+    "qte": 10,
+    "buy": 0,
+    "type" : "articles"
+  } ],
+  "smartphone" : [ {
+    "denomination" : "Samsung Galaxy A03S 32Go",
+    "dispo" : "EN STOCK",
+    "id" : 0,
+    "img" : "https://zupimages.net/up/21/44/y2t0.jpg",
+    "marque" : "Samsung",
+    "price" : 159.95,
+    "couleur" : "Noire",
+    "resolution" : "13mp",
+    "taille" : 6.5,
+    "visibility": true,
+    "qte": 2,
+    "buy": 0,
+    "type" : "smartphone"
+  }, {
+    "denomination" : "Apple iPhone 13 Pro Max 128Go",
+    "dispo" : "EN STOCK",
+    "id" : 1,
+    "img" : "https://zupimages.net/up/21/44/dng0.jpg",
+    "marque" : "Apple",
+    "price" : 1259.00,
+    "couleur" : "Or",
+    "resolution" : "12mp",
+    "taille" : 6.7,
+    "visibility": true,
+    "qte": 1,
+    "buy": 0,
+    "type" : "smartphone"
+  }, {
+    "denomination" : "Apple iPhone 13 Pro Max 256Go",
+    "dispo" : "EN STOCK",
+    "id" : 2,
+    "img" : "https://zupimages.net/up/21/44/mkpt.jpg",
+    "marque" : "Apple",
+    "price" : 1379.00,
+    "couleur" : "Bleu",
+    "resolution" : "12mp",
+    "taille" : 6.7,
+    "visibility": true,
+    "qte": 5,
+    "buy": 0,
+    "type" : "smartphone"
+  }, {
+    "denomination" : "Xiaomi Mi Lite 5G 128Go",
+    "dispo" : "EN STOCK",
+    "id" : 3,
+    "img" : "https://zupimages.net/up/21/44/t692.jpg",
+    "marque" : "Xiaomi",
+    "price" : 329.95,
+    "couleur" : "Vert",
+    "resolution" : "64mp",
+    "taille" : 6.5,
+    "visibility": true,
+    "qte": 3,
+    "buy": 0,
+    "type" : "smartphone"
+  }, {
+    "denomination" : "Samsung Galaxy Z Fold 3 5g 512Go",
+    "dispo" : "EN STOCK",
+    "id" : 4,
+    "img" : "https://zupimages.net/up/21/44/cfr6.jpg",
+    "marque" : "Samsung",
+    "price" : 1899.95,
+    "couleur" : "Noir",
+    "resolution" : "12mp",
+    "taille" : 7.6,
+    "visibility": true,
+    "qte": 2,
+    "buy": 0,
+    "type" : "smartphone"
+  } ],
+	"users" : [
+ {
+    "user" : "toto",
+    "password" : "toto"
+  },
+ {
+    "user" : "tata",
+    "password" : "tata"
+  },
+ {
+    "user" : "titi",
+    "password" : "titi"
+  },
+ {
+    "user" : "tete",
+    "password" : "tete"
+  },
+ {
+    "user" : "tutu",
+    "password" : "tutu"
+  }
+]
+}
